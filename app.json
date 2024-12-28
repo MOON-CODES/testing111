@@ -8,24 +8,24 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/Master/DRM",
+    "repository": "https://github.com/MOON-CODES/testing111",
     "success_url": "https://telegram.me/classtubeofficial",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Enter your Telegram API ID.",
+            "description": "22940312",
             "required": true
         },
         "API_HASH": {
-            "description": "Enter your Telegram API Hash.",
+            "description": "82fb5cd2de25e4c01021b8bbae9909bb",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Enter your Telegram Bot Token.",
+            "description": "7668001422:AAGY5XCqvPPDU1Gfe5WrXSZXXYOBBWxAEAA",
             "required": true
         },
         "AUTH_USERS": {
-            "description": "Enter your authorized user IDs, e.g., 6801378994,5919400080,...(Seprate by Comma) ",
+            "description": "6818594183",
             "required": true
         }
     },
