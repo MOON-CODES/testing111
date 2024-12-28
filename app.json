@@ -8,7 +8,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/MOON-CODES/testing111",
+    "repository": "https://github.com/Master/DRM",
     "success_url": "https://telegram.me/classtubeofficial",
     "stack": "container",
     "env": {
